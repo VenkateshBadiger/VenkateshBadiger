@@ -1,7 +1,7 @@
 <!-- Venkatesh Badiger | GitHub Profile -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_id" width="170" style="border-radius: 50%;" />
+  <img src="https://github.com/VenkateshBadiger/VenkateshBadiger/blob/main/Profile%20pic.jpg?raw=true" width="170" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#58a6ff">Venkatesh Badiger</span> 👋</h1>
@@ -18,7 +18,7 @@
   <a href="https://github.com/VenkateshBadiger">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="#">
+  <a href="https://github.com/VenkateshBadiger/VenkateshBadiger/blob/main/Venkatesh%20Badiger%20CV%208.0.pdf">
     <img src="https://img.shields.io/badge/Resume-4169E1?style=for-the-badge&logo=googledocs&logoColor=white">
   </a>
 </p>
@@ -33,9 +33,8 @@
 
 ## 👤 About Me
 
-I'm an enthusiastic **AI & Data Science Engineer** with a passion for **Full-Stack Development, Machine Learning, and Secure Systems**.  
-
-I love building impactful applications — from encrypted messaging systems to AI-driven automation tools.  
+I'm an enthusiastic **AI & Data Science Engineer** with a passion for **Full-Stack Development, Machine Learning, and Data science**.  
+  
 I thrive in hackathons, enjoy technical challenges, and constantly explore new technologies.
 
 ---
@@ -147,7 +146,7 @@ A browser extension that reads webpage text aloud + provides AI-based summaries.
 - 🎓 **Ramaiah Institute of Technology, Bengaluru**  
   B.E. in AI & Data Science (2022–2026)
 
-- 🏫 **Kendriya Vidyalaya** (Schooling)
+- 🏫 **Love Dale Central School, Belagavi** (Schooling)
 
 ---
 
