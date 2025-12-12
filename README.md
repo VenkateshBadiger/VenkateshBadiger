@@ -127,8 +127,8 @@ AI tool converting video → text → translated multilingual output.
 
 <td width="50%" style="vertical-align:top; border:1px solid #444; padding:15px;">
 
-### 🔍 Chrome Extension – Text Reader
-A browser extension that reads webpage text aloud + provides AI-based summaries.
+### 🔍 TalkToNews - Chrome Extension  
+A browser extension that acts as an AI-powered news reader, classifier, and summarizer.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
