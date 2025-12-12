@@ -132,7 +132,11 @@ A browser extension that acts as an AI-powered news reader, classifier, and summ
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Chrome Extension-4285F4?style=flat&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenRouter%20API-AI-blueviolet?style=flat">
+  <img src="https://img.shields.io/badge/Web%20Speech%20API-TTS-FF6F00?style=flat">
+
+
 </p>
 
 </td>
